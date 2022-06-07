@@ -34,7 +34,7 @@
 .komibody {
   display: grid;
   place-items: center;
-  height: 100vh;
+  height: 48vh;
   font-size: 16px;
   line-height: 1;
   font-family: "Kiwi Maru", serif;
