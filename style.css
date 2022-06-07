@@ -31,11 +31,10 @@
   box-sizing: border-box;
 }
 
-body {
+.komibody {
   display: grid;
   place-items: center;
   height: 100vh;
-  background-color: var(--background);
   font-size: 16px;
   line-height: 1;
   font-family: "Kiwi Maru", serif;
